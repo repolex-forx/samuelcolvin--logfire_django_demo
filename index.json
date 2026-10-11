@@ -1,0 +1,11 @@
+{
+  "org": "samuelcolvin",
+  "repo": "logfire_django_demo",
+  "versions": [
+    {
+      "commit": "0e985073ce187749a353454ea631486e02953a5b",
+      "tag": "",
+      "parsed_at": "2026-10-11T22:10:05.556179+00:00"
+    }
+  ]
+}
