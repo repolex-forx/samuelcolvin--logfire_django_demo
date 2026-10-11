@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/logfire_django_demo/commit/0e985073ce187749a353454ea631486e02953a5b",
       "git:hexsha": "0e985073ce187749a353454ea631486e02953a5b",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
