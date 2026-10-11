@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/samuelcolvin/logfire_django_demo",
+  "@type": "gh:Repository",
+  "gh:name": "logfire_django_demo",
+  "gh:owner": "samuelcolvin",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/samuelcolvin/logfire_django_demo/commit/0e985073ce187749a353454ea631486e02953a5b",
+      "git:hexsha": "0e985073ce187749a353454ea631486e02953a5b",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}

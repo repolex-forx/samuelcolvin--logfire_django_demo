@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "logfire_django_demo",
+  "versions": [
+    {
+      "commit": "0e985073ce187749a353454ea631486e02953a5b",
+      "parsed_at": "2026-10-11T22:04:02.075793+00:00",
+      "filetree": "filetree/0e985073ce187749a353454ea631486e02953a5b.nq.gz",
+      "blobs": [
+        "blob/0f2f1842b33e91efcc5f4dce052ca95fee1fdf34.nq.gz",
+        "blob/21914d9ab62b0dc193c7d0c282e20baaeb6279f0.nq.gz",
+        "blob/60dff9bea2528ff4c63b74309617d210c1a31d8e.nq.gz",
+        "blob/720ea0922c66c7dbebf5e726e85e6b24d67ed3c1.nq.gz",
+        "blob/e0cc2f941db18dd2c96e47a2bdbd0196799afe15.nq.gz",
+        "blob/f4677cc3a35b42771a9fda37c5b86f8d0debfec4.nq.gz",
+        "blob/8c38f3f3dad51e4585f3984282c2a4bec5349c1e.nq.gz",
+        "blob/26bc605ac9f70f5e2b3d8b2168f8b99d2e062e05.nq.gz",
+        "blob/ce59bae49a973a63e3c6262fc6d23cc954002507.nq.gz",
+        "blob/ed0a01bb70919ce088c20b7b8c00d44fd0f0253f.nq.gz",
+        "blob/e5bd9924aa1c19740a884e2251d38518d9f5dc20.nq.gz",
+        "blob/302e48966376a15bf7d8624e2b4547bf9086760a.nq.gz",
+        "blob/7ce503c2dd97ba78597f6ff6e4393132753573f6.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/e85423d77a92c32f731f1740d39bf1b7bf927aaf.nq.gz",
+        "blob/a70efb93afde06e1d4904435e8bdd1d7c63e6b3a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
